@@ -1,0 +1,74 @@
+# Scent Mate
+
+A Flutter application that suggests personalized fragrances based on user preferences.
+
+## Features
+
+- Multi-language support (English, Italian, Spanish, French, Russian)
+- Interactive questionnaire to understand user preferences
+- AI-powered fragrance suggestions
+- Detailed scent profiles with top, middle, and base notes
+- Similar fragrance recommendations
+- Direct links to purchase options
+
+## Running the Application
+
+### Prerequisites
+
+- Flutter SDK (latest version)
+- Chrome browser (for web development)
+- API keys for Gemini and Mistral AI services
+
+### Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/twinpixel/scent_mate.git
+cd scent_mate
+```
+
+2. Create an `api-keys.json` file in the project root with your API keys:
+```json
+{
+  "KEY_GEMINI": "your-gemini-api-key",
+  "KEY_MISTRAL": "your-mistral-api-key"
+}
+```
+
+3. Install dependencies:
+```bash
+flutter pub get
+```
+
+### Running the App
+
+#### Web (Chrome)
+```bash
+flutter run -d chrome --dart-define=API_KEY=api-keys.json
+```
+
+#### Android
+```bash
+flutter run -d android --dart-define=API_KEY=api-keys.json
+```
+
+#### iOS
+```bash
+flutter run -d ios --dart-define=API_KEY=api-keys.json
+```
+
+## Development
+
+The application uses:
+- Flutter for the UI framework
+- SharedPreferences for local storage
+- HTTP package for API calls
+- Material Design 3 for the UI components
+
+## License
+
+BSD 3-Clause License
+
+## Author
+
+Andrea Poltronieri

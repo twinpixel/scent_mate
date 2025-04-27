@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q0",
+    "text": "what is your gender",
+    "options": [
+      "Male",
+      "Female",
+      "Not applicable"
+    ]
+  },
+  {
+    "id": "q1",
+    "text": "For what main occasion will you wear this perfume?",
+    "options": [
+      "Every day / Work",
+      "Special occasions / Elegant evenings",
+      "Leisure time / Sports"
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "Which of these fragrance families attracts you the most?",
+    "options": [
+      "Floral (rose, jasmine, lily of the valley)",
+      "Fruity (citrus, red berries, peach)",
+      "Woody (sandalwood, cedarwood, patchouli)",
+      "Oriental / Amber (vanilla, spices, resins)",
+      "Fresh / Aquatic (marine notes, aromatic herbs)",
+      "Chypre (oakmoss, bergamot, labdanum)"
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "How intense or light would you prefer the fragrance to be?",
+    "options": [
+      "Very intense and long-lasting",
+      "Moderately intense",
+      "Light and discreet",
+      "Not too persistent"
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "Are there any specific fragrance notes that you particularly like or dislike?",
+    "options": [
+      "I like sweet notes (vanilla, caramel)",
+      "I prefer citrus and sparkling notes (lemon, bergamot)",
+      "I appreciate green and herbaceous notes (cut grass, fig leaves)",
+      "I don't like overly musky notes",
+      "I love spicy notes (black pepper, cinnamon)",
+      "I have no specific preferences"
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "Do you have an idea of the budget you would like to allocate to this perfume?",
+    "options": [
+      "Less than €50",
+      "Between €50 and €100",
+      "Between €100 and €150",
+      "More than €150"
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "Are you familiar with any particular perfume brands that you like or have already tried?",
+    "options": [
+      "Yes, I have favorite brands",
+      "No, I am open to different options",
+      "I have only tried niche perfumes",
+      "I prefer perfumes from fashion brands"
+    ]
+  }
+]
