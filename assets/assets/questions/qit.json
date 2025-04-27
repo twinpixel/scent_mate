@@ -1,0 +1,73 @@
+[
+  {
+    "id": "q0",
+    "text": "Di che genere sei",
+    "options": [
+      "Maschio",
+      "Femmina",
+      "Non applicabile"
+    ]
+  },
+  {
+    "id": "q1",
+    "text": "Per quale occasione principale indosserai questo profumo?",
+    "options": [
+      "Tutti i giorni / Lavoro",
+      "Occasioni speciali / Serate eleganti",
+      "Tempo libero / Sport"]
+  },
+  {
+    "id": "q2",
+    "text": "Quale tra queste famiglie olfattive ti attrae di più?",
+    "options": [
+      "Fiorita (rosa, gelsomino, mughetto)",
+      "Fruttata (agrumi, frutti rossi, pesca)",
+      "Legnosa (sandalo, cedro, patchouli)",
+      "Orientale / Ambrata (vaniglia, spezie, resine)",
+      "Fresca / Acquatica (note marine, erbe aromatiche)",
+      "Chypre (muschio di quercia, bergamotto, labdano)"
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "Quanto intensa o leggera preferiresti che fosse la fragranza?",
+    "options": [
+      "Molto intensa e persistente",
+      "Moderatamente intensa",
+      "Leggera e discreta",
+      "Non troppo persistente"
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "Ci sono note olfattive specifiche che ti piacciono particolarmente o che non sopporti?",
+    "options": [
+      "Mi piacciono le note dolci (vaniglia, caramello)",
+      "Preferisco le note agrumate e frizzanti (limone, bergamotto)",
+      "Apprezzo le note verdi ed erbacee (erba tagliata, foglie di fico)",
+      "Non mi piacciono le note troppo muschiate",
+      "Adoro le note speziate (pepe nero, cannella)",
+      "Non ho preferenze specifiche"
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "Hai un'idea del budget che vorresti dedicare a questo profumo?",
+    "options": [
+      "Meno di 50€",
+      "Tra 50€ e 100€",
+      "Tra 100€ e 150€",
+      "Più di 150€"
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "Hai familiarità con qualche marca di profumi in particolare che ti piace o che hai già provato?",
+    "options": [
+      "Sì, ho delle marche preferite",
+      "No, sono aperto a diverse opzioni",
+      "Ho provato solo profumi di profumeria artistica",
+      "Preferisco i profumi di marchi di moda"
+    ]
+  }
+]

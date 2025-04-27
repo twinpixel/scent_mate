@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q0",
+    "text": "Quel est votre genre ?",
+    "options": [
+      "Homme",
+      "Femme",
+      "Non applicable"
+    ]
+  },
+  {
+    "id": "q1",
+    "text": "Pour quelle occasion principale porterez-vous ce parfum ?",
+    "options": [
+      "Tous les jours / Travail",
+      "Occasions spéciales / Soirées élégantes",
+      "Loisirs / Sport"
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "Quelle famille olfactive parmi celles-ci vous attire le plus ?",
+    "options": [
+      "Florale (rose, jasmin, muguet)",
+      "Fruitée (agrumes, fruits rouges, pêche)",
+      "Boisée (santal, cèdre, patchouli)",
+      "Orientale / Ambrée (vanille, épices, résines)",
+      "Fraîche / Aquatique (notes marines, herbes aromatiques)",
+      "Chypre (mousse de chêne, bergamote, labdanum)"
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "Quelle intensité ou légèreté préféreriez-vous pour la fragrance ?",
+    "options": [
+      "Très intense et persistante",
+      "Modérément intense",
+      "Légère et discrète",
+      "Pas trop persistante"
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "Y a-t-il des notes olfactives spécifiques que vous aimez particulièrement ou que vous ne supportez pas ?",
+    "options": [
+      "J'aime les notes sucrées (vanille, caramel)",
+      "Je préfère les notes d'agrumes et pétillantes (citron, bergamote)",
+      "J'apprécie les notes vertes et herbacées (herbe coupée, feuilles de figuier)",
+      "Je n'aime pas les notes trop musquées",
+      "J'adore les notes épicées (poivre noir, cannelle)",
+      "Je n'ai pas de préférences spécifiques"
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "Avez-vous une idée du budget que vous aimeriez consacrer à ce parfum ?",
+    "options": [
+      "Moins de 50€",
+      "Entre 50€ et 100€",
+      "Entre 100€ et 150€",
+      "Plus de 150€"
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "Connaissez-vous des marques de parfums en particulier que vous aimez ou que vous avez déjà essayées ?",
+    "options": [
+      "Oui, j'ai des marques préférées",
+      "Non, je suis ouvert à différentes options",
+      "J'ai seulement essayé des parfums de parfumerie artistique",
+      "Je préfère les parfums de marques de mode"
+    ]
+  }
+]

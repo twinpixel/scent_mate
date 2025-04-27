@@ -1,0 +1,74 @@
+[
+  {
+    "id": "q0",
+    "text": "¿Cuál es tu género?",
+    "options": [
+      "Hombre",
+      "Mujer",
+      "No aplicable"
+    ]
+  },
+  {
+    "id": "q1",
+    "text": "¿Para qué ocasión principal usarás este perfume?",
+    "options": [
+      "Todos los días / Trabajo",
+      "Ocasiones especiales / Noches elegantes",
+      "Ocio / Deporte"
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "¿Cuál de estas familias olfativas te atrae más?",
+    "options": [
+      "Floral (rosa, jazmín, lirio de los valles)",
+      "Frutal (cítricos, frutos rojos, melocotón)",
+      "Amaderada (sándalo, cedro, pachulí)",
+      "Oriental / Ámbar (vainilla, especias, resinas)",
+      "Fresca / Acuática (notas marinas, hierbas aromáticas)",
+      "Chipre (musgo de roble, bergamota, ládano)"
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "¿Qué intensidad o ligereza preferirías para la fragancia?",
+    "options": [
+      "Muy intensa y persistente",
+      "Moderadamente intensa",
+      "Ligera y discreta",
+      "No demasiado persistente"
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "¿Hay notas olfativas específicas que te gusten particularmente o que no soportes?",
+    "options": [
+      "Me gustan las notas dulces (vainilla, caramelo)",
+      "Prefiero las notas cítricas y chispeantes (limón, bergamota)",
+      "Aprecio las notas verdes y herbáceas (hierba cortada, hojas de higuera)",
+      "No me gustan las notas demasiado almizcladas",
+      "Adoro las notas especiadas (pimienta negra, canela)",
+      "No tengo preferencias específicas"
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "¿Tienes una idea del presupuesto que te gustaría dedicar a este perfume?",
+    "options": [
+      "Menos de 50€",
+      "Entre 50€ y 100€",
+      "Entre 100€ y 150€",
+      "Más de 150€"
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "¿Conoces alguna marca de perfumes en particular que te guste o que ya hayas probado?",
+    "options": [
+      "Sí, tengo marcas preferidas",
+      "No, estoy abierto a diferentes opciones",
+      "Solo he probado perfumes de perfumería artística",
+      "Prefiero los perfumes de marcas de moda"
+    ]
+  }
+]
