@@ -2,6 +2,10 @@
 
 An experimental Flutter application that suggests personalized fragrances based on user preferences. This project is part of a vibe coding experiment, where the focus is on creating an immersive and intuitive fragrance discovery experience.
 
+## 🚀 Live Demo
+
+A live version of the application is available at: [https://twinpixel.github.io/scent_mate/](https://twinpixel.github.io/scent_mate/)
+
 ## 🎨 Vibe Coding Experiment
 
 This project is an exploration of:
