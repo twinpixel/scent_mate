@@ -1,6 +1,18 @@
 # Scent Mate
 
-A Flutter application that suggests personalized fragrances based on user preferences.
+An experimental Flutter application that suggests personalized fragrances based on user preferences. This project is part of a vibe coding experiment, where the focus is on creating an immersive and intuitive fragrance discovery experience.
+
+## 🚀 Live Demo
+
+A live version of the application is available at: [https://twinpixel.github.io/scent_mate/](https://twinpixel.github.io/scent_mate/)
+
+## 🎨 Vibe Coding Experiment
+
+This project is an exploration of:
+- Creating an immersive user experience through scent-based interactions
+- Experimenting with AI-powered personalization
+- Building a multi-sensory digital experience
+- Exploring the intersection of technology and sensory perception
 
 ## Features
 
@@ -64,6 +76,13 @@ The application uses:
 - SharedPreferences for local storage
 - HTTP package for API calls
 - Material Design 3 for the UI components
+
+## 🚀 Experimental Features
+
+- AI-powered scent profile generation
+- Multi-language support with cultural scent preferences
+- Experimental UI/UX patterns for scent visualization
+- Real-time fragrance recommendations
 
 ## License
 
