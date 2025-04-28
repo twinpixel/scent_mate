@@ -7,6 +7,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:scent_mate/theme/app_theme.dart';
+
 void main() {
   runApp(const ScentSuggestionApp());
 }
@@ -120,13 +122,18 @@ class _ScentSuggestionHomePageState extends State<ScentSuggestionHomePage> {
   void _answerQuestion(String questionId, String answer) {
     setState(() {
       _answers[questionId] = answer;
-      // Only move to next question if not at the last question
       if (_currentQuestionIndex < _questions.length - 1) {
         _currentQuestionIndex++;
-      }else{
-
+      } else {
+        // Check if all questions are answered
+        bool allAnswered = _answers.values.every((answer) => answer != null);
+        if (allAnswered) {
           submitAnswers();
-
+        } else {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text(_getTranslation('complete_all_questions'))),
+          );
+        }
       }
     });
   }

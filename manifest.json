@@ -1,21 +1,21 @@
 {
-    "name": "scent_mate",
-    "short_name": "scent_mate",
+    "name": "Scent Mate",
+    "short_name": "Scent Mate",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000000",
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "assets/icon.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "assets/icon.png",
             "sizes": "512x512",
             "type": "image/png"
         },
